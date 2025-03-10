@@ -1,0 +1,6 @@
+id,name,department,salary,date_of_joining,bonus
+1,Alice,IT,60000.0,2020-03-15,6000.0
+2,Bob,HR,45000.0,2018-07-24,4500.0
+3,Charlie,Finance,70000.0,2015-10-12,7000.0
+4,David,IT,50000.0,2022-01-05,5000.0
+5,Eva,HR,55000.0,2019-11-09,5500.0
